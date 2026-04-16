@@ -1,0 +1,1 @@
+moduleSearchIndex = [{"l":"myatt.Controller"}];updateSearchResults();
